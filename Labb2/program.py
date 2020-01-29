@@ -1,2 +1,0 @@
-import meny
-meny.meny()
